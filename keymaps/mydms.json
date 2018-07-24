@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "cmd-1": "mydms:generate",
+    "cmd-2": "mydms:config-setup"
+  }
+}

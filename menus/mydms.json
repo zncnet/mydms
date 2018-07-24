@@ -1,0 +1,20 @@
+{
+    "context-menu": {
+        ".tool-panel.tree-view .file": [{
+                "label": "Mydms Generate Dao",
+                "command": "mydms:generate"
+            },
+            {
+                "type": "separator"
+            }
+        ],
+        ".tool-panel.tree-view .header.list-item": [{
+                "label": "Mydms Generate Setup",
+                "command": "mydms:config-setup"
+            },
+            {
+                "type": "separator"
+            }
+        ]
+    }
+}

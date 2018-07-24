@@ -1,0 +1,16 @@
+{
+  "name": "mydms",
+  "main": "./lib/mydms",
+  "version": "0.0.1",
+  "description": "My Generater",
+  "keywords": [],
+  "repository": "https://github.com/atom/mydms",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "pg": "^7.4.3"
+  }
+}
