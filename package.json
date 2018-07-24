@@ -2,9 +2,10 @@
   "name": "mydms",
   "main": "./lib/mydms",
   "version": "0.0.1",
-  "description": "My Generater",
+  "author": "zncnet",
+  "description": "My Generater, PostgreSQL table to Golang Object.",
   "keywords": [],
-  "repository": "https://github.com/atom/mydms",
+  "repository": "https://github.com/zncnet/mydms",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
