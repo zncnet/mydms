@@ -3,6 +3,9 @@
         ".tool-panel.tree-view .file": [{
                 "label": "Mydms Generate Dao",
                 "command": "mydms:generate"
+            }, {
+                "label": "Mydms Generate Thrift",
+                "command": "mythrift:generate"
             },
             {
                 "type": "separator"
